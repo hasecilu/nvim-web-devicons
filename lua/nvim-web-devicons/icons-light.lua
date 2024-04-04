@@ -2921,12 +2921,6 @@ local icons_by_operating_system = {
     cterm_color = "31",
     name = "BigLinux",
   },
-  ["budgie"] = {
-    icon = "",
-    color = "#366397",
-    cterm_color = "25",
-    name = "Budgie",
-  },
   ["centos"] = {
     icon = "",
     color = "#7a3d6a",
